@@ -1,0 +1,134 @@
+/*
+ Theme Name:   Gray Chalk
+ Theme URI:    
+ Description:  Twenty Twelve Child Theme. This is a simple theme with subtle touches of a texture. Easily add to the look and function with widgets and plugins.  
+ Author:       Busy Momi Bee - Shawna B.
+ Author URI:   http://busymomibeeblogdesigns.com/about
+ Template:     twentytwelve
+ Version:     2.0
+ License: GNU General Public License v2.0
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ Gray Chalk, Child theme of Twenty Twelve WordPress Theme, Copyright 2014 WordPress.org
+ Gray Chalk is distributed under the terms of the GNU GPL
+   
+ Tags:         gray, green, two-columns, right-sidebar, custom-background, custom-colors, custom-menu
+ Text Domain:  gray-chalk
+*/
+@import url("../twentytwelve/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+body {
+    background: url(images/GrayChalkBG.png) top fixed;
+    }
+
+body .site {
+	box-shadow: none;
+	}
+
+a {
+	color: #90bd56;
+	}
+	
+a:hover{
+	color: #797C82;
+	}	
+
+.site-header h1 {
+	background: url(images/GrayChalkHeader.png) no-repeat scroll center bottom -8px transparent;
+	text-align: center;
+	font-family: 'Coming Soon', cursive;
+	font-weight: 400;
+	font-size: 50px;
+	}
+
+.site-header h1 a {
+	color: #797c82;
+	}
+	
+.site-header h1 a:hover {
+	color: #90bd56;
+	}	
+	
+.site-header h2 {
+	text-align: center;
+	font-size: 20px;
+	}	
+
+.main-navigation div.nav-menu > ul {
+     width: 109%;
+    text-align: center;
+    margin-left: -45px;
+}
+
+.main-navigation div.nav-menu > ul {
+	background: url(images/GrayChalkBG.png) repeat scroll 100% 100% transparent;
+	}
+	
+.main-navigation .current_page_item > a	{
+	color: #fff;
+	padding: 2px;
+	}
+	
+.main-navigation .current_page_item > a:hover {
+	color: #797C82;
+	}
+	
+.main-navigation li ul li a {
+	background: #797c82;
+	border-bottom: none;
+	text-align: left;
+	}
+	
+.main-navigation li ul li a:hover {
+	background: #90bd56;
+	color: #fff;
+	text-align: left;
+	}
+	
+.main-navigation li a {
+	color: #fff;
+	}	
+	
+.main-navigation li a {
+    color: #FFF;
+    font-size: 15px;
+     }
+     
+.main-navigation li a:hover {
+	color: #797C82;
+	}
+	
+.entry-header .entry-title {
+	color: #90bd56;
+	font-family: 'Coming Soon', cursive;
+	font-size: 24px;
+	font-weight: bold;
+	}	
+	
+.entry-header .entry-title a:hover {
+	color: #797C82;
+	}
+		
+.comments-link a, .entry-meta a {
+    color: #90bd56;
+}
+	
+.widget-area .widget h3 {
+	background-color: #797c82;
+	}	
+	
+.widget-title {
+	color: #fff;
+	padding: 5px;
+	font-family: 'Coming Soon', cursive;
+	}	
+	
+.widget-area .widget a {
+	color: #90bd56;
+	}
+	
+.widget-area .widget a:hover {
+	color: #797C82;
+	}	
+	
