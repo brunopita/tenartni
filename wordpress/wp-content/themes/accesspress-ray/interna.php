@@ -20,100 +20,101 @@ $accesspress_ray_blog_title = $accesspress_ray_settings['blog_title'];
 ?>
 
 <section class="principal-info">
-			<section class="posts">
-				<h3 class='title-content'>ÚLTIMAS POSTAGENS</h3>
-				<div class="post-content">
-					<div class="post">
-						<div class="icondoc"></div>
-						<h4 class='post-categ'>ENSINO</h4>
-						<p class='post-name'>FR115-031 V3 PLANO DE DEMONSTRAÇÃO</p>
-						<button class='btn btn-small'>Download</button>
-					</div>
-					<div class="post">
-						<div class="icondoc"></div>
-						<h4 class='post-categ'>ENSINO</h4>
-						<p class='post-name'>FR115-031 V3 PLANO DE DEMONSTRAÇÃO</p>
-						<button class='btn btn-small'>Download</button>
-					</div>
-					<div class="post">
-						<div class="icondoc"></div>
-						<h4 class='post-categ'>ENSINO</h4>
-						<p class='post-name'>FR115-031 V3 PLANO DE DEMONSTRAÇÃO</p>
-						<button class='btn btn-small'>Download</button>
-					</div>
-					<div class="post">
-						<div class="icondoc"></div>
-						<h4 class='post-categ'>ENSINO</h4>
-						<p class='post-name'>FR115-031 V3 PLANO DE DEMONSTRAÇÃO</p>
-						<button class='btn btn-small'>Download</button>
-					</div>
-					<div class="post">
-						<div class="icondoc"></div>
-						<h4 class='post-categ'>ENSINO</h4>
-						<p class='post-name'>FR115-031 V3 PLANO DE DEMONSTRAÇÃO</p>
-						<button class='btn btn-small'>Download</button>
-					</div>
-					<div class="post">
-						<div class="icondoc"></div>
-						<h4 class='post-categ'>ENSINO</h4>
-						<p class='post-name'>FR115-031 V3 PLANO DE DEMONSTRAÇÃO</p>
-						<button class='btn btn-small'>Download</button>
-					</div>
-					<div class="post">
-						<div class="icondoc"></div>
-						<h4 class='post-categ'>ENSINO</h4>
-						<p class='post-name'>FR115-031 V3 PLANO DE DEMONSTRAÇÃO</p>
-						<button class='btn btn-small'>Download</button>
-					</div>
-					<div class="post">
-						<div class="icondoc"></div>
-						<h4 class='post-categ'>ENSINO</h4>
-						<p class='post-name'>FR115-031 V3 PLANO DE DEMONSTRAÇÃO</p>
-						<button class='btn btn-small'>Download</button>
-					</div>
-				</div>
-				<div class="more">
-					<p class='link'><a href="#" title='link'>Ver todos</a></p>
-					<hr class='line'> 
-				</div>
-			</section>
-			<section class="posts">
-				<h3 class='title-content'>ÚLTIMOS COMUNICADOS</h3>
+
+	<section class="posts">
+		<h3 class='title-content'>BIBLIOTECA</h3>
+		<div class="path">
+			<ul>
+				<li><a href="#">DOCUMENTOS /</a></li>
+				<li><a href="#"> QUALIDADE /</a></li>
+				<li><a href="#" class='active'>BIBLIOTECA</a></li>
+			</ul>
+		</div>
+		<div class="post-content comunicado-content">
+			<h3 class='subtitle-content'>JULHO 2015</h3>
+			<div class="post comunicado">
+				<h4 class='post-name bold'>CRONOGRAMA DE REUNIÕES -  <span>03/08</span></h4>
+				<button class='btn btn-medium interno'>Download</button>
+			</div>
+			<div class="post comunicado">
+				<h4 class='post-name bold'>CRONOGRAMA DE REUNIÕES -  <span>03/08</span></h4>
+				<button class='btn btn-medium interno'>Download</button>
+			</div>
+			<div class="post comunicado">
+				<h4 class='post-name bold'>CRONOGRAMA DE REUNIÕES -  <span>03/08</span></h4>
+				<button class='btn btn-medium interno'>Download</button>
+			</div>
+			<div class="post comunicado">
+				<h4 class='post-name bold'>CRONOGRAMA DE REUNIÕES -  <span>03/08</span></h4>
+				<button class='btn btn-medium interno'>Download</button>
+			</div>
+			<div class="post comunicado">
+				<h4 class='post-name bold'>CRONOGRAMA DE REUNIÕES -  <span>03/08</span></h4>
+				<button class='btn btn-medium interno'>Download</button>
+			</div>
+			<div class="post comunicado">
+				<h4 class='post-name bold'>CRONOGRAMA DE REUNIÕES -  <span>03/08</span></h4>
+				<button class='btn btn-medium interno'>Download</button>
+			</div>
+			<div class="post comunicado">
+				<h4 class='post-name bold'>CRONOGRAMA DE REUNIÕES -  <span>03/08</span></h4>
+				<button class='btn btn-medium interno'>Download</button>
+			</div>
+			<div class="post comunicado">
+				<h4 class='post-name bold'>CRONOGRAMA DE REUNIÕES -  <span>03/08</span></h4>
+				<button class='btn btn-medium interno'>Download</button>
+			</div>
+		</div>
+		<div class="more more-interno">
+			<p class='link'><a href="#" title='Link'>Ver todos</a></p>
+			<hr class='line'> 
+		</div>
+	</section>
+	<section class="posts">
+				<!-- <h3 class='title-content'>BIBLIOTECA</h3>
+				<div class="path">
+					<ul>
+						<li><a href="#">DOCUMENTOS /</a></li>
+						<li><a href="#"> QUALIDADE /</a></li>
+						<li><a href="#" class='active'>BIBLIOTECA</a></li>
+					</ul>
+				</div> -->
 				<div class="post-content comunicado-content">
+					<h3 class='subtitle-content second'>AGOSTO 2015</h3>
 					<div class="post comunicado">
 						<h4 class='post-name bold'>CRONOGRAMA DE REUNIÕES -  <span>03/08</span></h4>
-						<button class='btn btn-medium'>Download</button>
+						<button class='btn btn-medium interno'>Download</button>
 					</div>
 					<div class="post comunicado">
 						<h4 class='post-name bold'>CRONOGRAMA DE REUNIÕES -  <span>03/08</span></h4>
-						<button class='btn btn-medium'>Download</button>
+						<button class='btn btn-medium interno'>Download</button>
 					</div>
 					<div class="post comunicado">
 						<h4 class='post-name bold'>CRONOGRAMA DE REUNIÕES -  <span>03/08</span></h4>
-						<button class='btn btn-medium'>Download</button>
+						<button class='btn btn-medium interno'>Download</button>
 					</div>
 					<div class="post comunicado">
 						<h4 class='post-name bold'>CRONOGRAMA DE REUNIÕES -  <span>03/08</span></h4>
-						<button class='btn btn-medium'>Download</button>
+						<button class='btn btn-medium interno'>Download</button>
 					</div>
 					<div class="post comunicado">
 						<h4 class='post-name bold'>CRONOGRAMA DE REUNIÕES -  <span>03/08</span></h4>
-						<button class='btn btn-medium'>Download</button>
+						<button class='btn btn-medium interno'>Download</button>
 					</div>
 					<div class="post comunicado">
 						<h4 class='post-name bold'>CRONOGRAMA DE REUNIÕES -  <span>03/08</span></h4>
-						<button class='btn btn-medium'>Download</button>
+						<button class='btn btn-medium interno'>Download</button>
 					</div>
 					<div class="post comunicado">
 						<h4 class='post-name bold'>CRONOGRAMA DE REUNIÕES -  <span>03/08</span></h4>
-						<button class='btn btn-medium'>Download</button>
+						<button class='btn btn-medium interno'>Download</button>
 					</div>
 					<div class="post comunicado">
 						<h4 class='post-name bold'>CRONOGRAMA DE REUNIÕES -  <span>03/08</span></h4>
-						<button class='btn btn-medium'>Download</button>
+						<button class='btn btn-medium interno'>Download</button>
 					</div>
 				</div>
-				<div class="more more_comunicados">
+				<div class="more more-interno">
 					<p class='link'><a href="#" title='Link'>Ver todos</a></p>
 					<hr class='line'> 
 				</div>
